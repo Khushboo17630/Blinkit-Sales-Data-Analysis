@@ -1,6 +1,7 @@
 # Blinkit-Sales-Data-Analysis
 
 #Aim of Project
+
 To conduct a comprehensive analysis ofBlinkit's, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimizations using various KPIs and visualizations in Power BI.
 
 # Steps Followed:
