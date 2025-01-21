@@ -82,6 +82,6 @@ To conduct a comprehensive analysis ofBlinkit's, customer satisfaction, and inve
 
 **Objective:** Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 
-**Chart Type: Matrix Card.
+**Chart Type:** Matrix Card.
 
 
