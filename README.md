@@ -84,4 +84,9 @@ To conduct a comprehensive analysis ofBlinkit's, customer satisfaction, and inve
 
 **Chart Type:** Matrix Card.
 
+# Dashboard Preview:
+
+
+![Screenshot (1019)](https://github.com/user-attachments/assets/2ba050f1-9bdf-4a11-8466-39e59381eeac)
+
 
